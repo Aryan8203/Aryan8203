@@ -1,3 +1,4 @@
+![logo](https://i0.wp.com/boingboing.net/wp-content/uploads/2015/01/infinity.jpg?fit=1200%2C675&ssl=1)
 <h1 align="center">Hi 👋, I'm Aryan Chaudhary</h1>
 <h3 align="center">A tech enthusiast from India making the machine solve my life problems using machine learning.</h3>
 
