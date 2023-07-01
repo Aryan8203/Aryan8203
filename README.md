@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A tech enthusiast from India making the machine solve my life problems using machine learning.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif">
 
