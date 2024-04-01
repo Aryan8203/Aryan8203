@@ -1,6 +1,6 @@
 ![logo](https://i0.wp.com/boingboing.net/wp-content/uploads/2015/01/infinity.jpg?fit=1200%2C675&ssl=1)
 <h1 align="center">Hi 👋, I'm Aryan Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and ML Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif">
 
